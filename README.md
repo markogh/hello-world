@@ -1,2 +1,2 @@
 # hello-world
-my first reository
+this vesion of file is a better option
